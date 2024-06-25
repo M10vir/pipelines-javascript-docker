@@ -1,3 +1,5 @@
+![image](https://github.com/M10vir/pipelines-javascript-docker/assets/12082866/4f5a0803-c28c-4357-a394-5d868e6f8b11)
+
 # Sample Docker and Kubernetes Node.JS app
 
 This code sample uses the Node.js web framework Express to create a basic web server that listens for HTTP requests on port 8080.
